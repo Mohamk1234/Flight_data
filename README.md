@@ -7,4 +7,4 @@ weather factor. In an effort to create a robust predictive model, we performed s
 as outlier removal, normalisation, encoding.
 
 The code for the entire analysis can be viewed here:
-https://colab.research.google.com/drive/1Jw6a3XOrwmMYMh232hEWLpcVxebU2gAM?authuser=2#scrollTo=E-965hMNWVAC
+https://colab.research.google.com/drive/11vvVF8rYtVIRH6VyhUCsJTrZAooMgdmB?usp=sharing
