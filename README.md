@@ -8,3 +8,5 @@ as outlier removal, normalisation, encoding.
 
 The code for the entire analysis can be viewed here:
 https://colab.research.google.com/drive/11vvVF8rYtVIRH6VyhUCsJTrZAooMgdmB?usp=sharing
+
+A summary of the findings can be viewed in "Flight delays.pdf".
